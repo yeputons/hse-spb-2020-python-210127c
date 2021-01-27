@@ -1,0 +1,2 @@
+OrderID,CustomerName,OrderDate
+10308,Ana Trujillo Emparedados y helados,1996-09-18
